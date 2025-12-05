@@ -1,0 +1,14 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Node modules (in case you add JS tools later)
+node_modules/
+
+# Build directories (future use)
+dist/
+build/
